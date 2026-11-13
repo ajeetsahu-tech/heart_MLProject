@@ -152,4 +152,4 @@ This project is for educational purposes only and must not be used for real medi
 ## 👤 Author
 
 **Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [Ajeet Sahu](https://github.com/ajeetsahu-tech)
